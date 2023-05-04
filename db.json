@@ -297,12 +297,16 @@
   {
     "id":1,
     "name":"Cherry",
-    "score":100
+    "score":100,
+    "correct":0,
+    "incorrect":0
 },
   {
     "id":2,
     "name":"Tom",
-    "score":90
+    "score":90,
+    "correct":0,
+    "incorrect":0
 }
  ]
     
